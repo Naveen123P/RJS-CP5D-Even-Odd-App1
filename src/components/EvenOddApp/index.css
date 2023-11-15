@@ -1,0 +1,39 @@
+/* Write your CSS here */
+* {
+  text-align: center;
+}
+.bg-container1 {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container2 {
+  height: 600px;
+  width: 600px;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: black;
+}
+.para {
+  color: #334155;
+}
+.button {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: #ffffff;
+  color: #000000;
+}
+.para1 {
+  font-size: medium;
+}
+.para2 {
+  font-size: small;
+}
